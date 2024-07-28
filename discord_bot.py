@@ -137,7 +137,7 @@ async def planets(ctx: commands.Context, planet1: str, planet2: str, all: bool =
         await send_message(ctx, "An error occurred while processing your request.")
 
 @bot.hybrid_command(name="sith_plan", description="Get what units were missing making ops impossible.")
-async def sith_plan(ctx: commands.Context):
+async def sith(ctx: commands.Context):
     try:
         x = sith2_plan()
         await send_message(ctx, x)
@@ -155,7 +155,7 @@ async def jedi(ctx: commands.Context):
         await send_message(ctx, "An error occurred while processing your request.")
 
 @bot.hybrid_command(name="rare_plan", description="Get units we have exactly enough of")
-async def rare_plan(ctx: commands.Context):
+async def rare(ctx: commands.Context):
     try:
         x = rare_plan()
         await send_message(ctx, x)
