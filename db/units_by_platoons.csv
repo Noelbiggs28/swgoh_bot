@@ -1,0 +1,1711 @@
+Id,phase,planet,operations,character_name
+1,1,Mustafar,6,Darth Revan
+2,1,Mustafar,6,First Order SF TIE Pilot
+3,1,Mustafar,6,General Grievous
+4,1,Mustafar,6,First Order Officer
+5,1,Mustafar,6,Count Dooku
+6,1,Mustafar,6,Chimaera
+7,1,Mustafar,6,Darth Sidious
+8,1,Mustafar,6,Imperial Probe Droid
+9,1,Mustafar,6,Fifth Brother
+10,1,Mustafar,6,First Order Officer
+11,1,Mustafar,6,Darth Revan
+12,1,Mustafar,6,Canderous Ordo
+13,1,Mustafar,6,Wat Tambor
+14,1,Mustafar,6,Imperial TIE Fighter
+15,1,Mustafar,6,Darth Vader
+16,1,Mustafar,5,Chimaera
+17,1,Mustafar,5,IG-88
+18,1,Mustafar,5,Darth Traya
+19,1,Mustafar,5,Boba Fett
+20,1,Mustafar,5,Droideka
+21,1,Mustafar,5,Emperor Palpatine
+22,1,Mustafar,5,Tusken Shaman
+23,1,Mustafar,5,Darth Traya
+24,1,Mustafar,5,"Mara Jade, The Emperor's Hand"
+25,1,Mustafar,5,0-0-0
+26,1,Mustafar,5,Chimaera
+27,1,Mustafar,5,Canderous Ordo
+28,1,Mustafar,5,Darth Traya
+29,1,Mustafar,5,First Order SF TIE Pilot
+30,1,Mustafar,5,Nightsister Initiate
+31,1,Mustafar,4,Darth Revan
+32,1,Mustafar,4,Ugnaught
+33,1,Mustafar,4,Darth Traya
+34,1,Mustafar,4,0-0-0
+35,1,Mustafar,4,B1 Battle Droid
+36,1,Mustafar,4,Grand Admiral Thrawn
+37,1,Mustafar,4,IG-86 Sentinel Droid
+38,1,Mustafar,4,General Grievous
+39,1,Mustafar,4,Embo
+40,1,Mustafar,4,Sith Trooper
+41,1,Mustafar,4,Darth Revan
+42,1,Mustafar,4,Darth Sion
+43,1,Mustafar,4,General Grievous
+44,1,Mustafar,4,Hound's Tooth
+45,1,Mustafar,4,Dark Trooper
+46,1,Mustafar,3,Darth Revan
+47,1,Mustafar,3,Hound's Tooth
+48,1,Mustafar,3,Darth Traya
+49,1,Mustafar,3,0-0-0
+50,1,Mustafar,3,BT-1
+51,1,Mustafar,3,Chimaera
+52,1,Mustafar,3,Ninth Sister
+53,1,Mustafar,3,Wat Tambor
+54,1,Mustafar,3,Sith Assassin
+55,1,Mustafar,3,TIE Fighter Pilot
+56,1,Mustafar,3,Chimaera
+57,1,Mustafar,3,Darth Vader
+58,1,Mustafar,3,Darth Traya
+59,1,Mustafar,3,0-0-0
+60,1,Mustafar,3,Imperial TIE Bomber
+61,1,Mustafar,2,Emperor Palpatine
+62,1,Mustafar,2,Nute Gunray
+63,1,Mustafar,2,Darth Traya
+64,1,Mustafar,2,Hyena Bomber
+65,1,Mustafar,2,Droideka
+66,1,Mustafar,2,Grand Admiral Thrawn
+67,1,Mustafar,2,Dengar
+68,1,Mustafar,2,Wat Tambor
+69,1,Mustafar,2,Asajj Ventress
+70,1,Mustafar,2,Ugnaught
+71,1,Mustafar,2,Grand Admiral Thrawn
+72,1,Mustafar,2,Jango Fett
+73,1,Mustafar,2,Wat Tambor
+74,1,Mustafar,2,Darth Sidious
+75,1,Mustafar,2,IG-88
+76,1,Mustafar,1,Chimaera
+77,1,Mustafar,1,Gauntlet Starfighter
+78,1,Mustafar,1,Imperial Probe Droid
+79,1,Mustafar,1,Imperial Super Commando
+80,1,Mustafar,1,Ugnaught
+81,1,Mustafar,1,Emperor Palpatine
+82,1,Mustafar,1,Geonosian Spy's Starfighter
+83,1,Mustafar,1,General Grievous
+84,1,Mustafar,1,Gamorrean Guard
+85,1,Mustafar,1,Darth Maul
+86,1,Mustafar,1,Emperor Palpatine
+87,1,Mustafar,1,BT-1
+88,1,Mustafar,1,General Grievous
+89,1,Mustafar,1,Darth Maul
+90,1,Mustafar,1,Darth Sion
+91,1,Corellia,6,TIE/IN Interceptor Prototype
+92,1,Corellia,6,Darth Revan
+93,1,Corellia,6,General Kenobi
+94,1,Corellia,6,Sana Starros
+95,1,Corellia,6,Jawa Engineer
+96,1,Corellia,6,TIE/IN Interceptor Prototype
+97,1,Corellia,6,Emperor Palpatine
+98,1,Corellia,6,Hermit Yoda
+99,1,Corellia,6,Admiral Piett
+100,1,Corellia,6,Darth Sion
+101,1,Corellia,6,TIE/IN Interceptor Prototype
+102,1,Corellia,6,The Mandalorian (Beskar Armor)
+103,1,Corellia,6,Imperial Probe Droid
+104,1,Corellia,6,Talia
+105,1,Corellia,6,Ki-Adi-Mundi
+106,1,Corellia,5,"Boba Fett, Scion of Jango"
+107,1,Corellia,5,R2-D2
+108,1,Corellia,5,Han Solo
+109,1,Corellia,5,Geonosian Brood Alpha
+110,1,Corellia,5,Colonel Starck
+111,1,Corellia,5,Commander Ahsoka Tano
+112,1,Corellia,5,Chimaera
+113,1,Corellia,5,Wat Tambor
+114,1,Corellia,5,Malevolence
+115,1,Corellia,5,Darth Maul
+116,1,Corellia,5,Razor Crest
+117,1,Corellia,5,Chewbacca
+118,1,Corellia,5,General Kenobi
+119,1,Corellia,5,TIE Silencer
+120,1,Corellia,5,Logray
+121,1,Corellia,4,Commander Ahsoka Tano
+122,1,Corellia,4,C-3PO
+123,1,Corellia,4,Darth Traya
+124,1,Corellia,4,Plo Koon's Jedi Starfighter
+125,1,Corellia,4,T3-M4
+126,1,Corellia,4,Darth Malgus
+127,1,Corellia,4,BB-8
+128,1,Corellia,4,Darth Traya
+129,1,Corellia,4,Kylo Ren's Command Shuttle
+130,1,Corellia,4,Clone Sergeant - Phase I
+131,1,Corellia,4,Ben Solo
+132,1,Corellia,4,Darth Revan
+133,1,Corellia,4,Rebel Officer Leia Organa
+134,1,Corellia,4,Darth Vader
+135,1,Corellia,4,Ki-Adi-Mundi
+136,1,Corellia,3,"Boba Fett, Scion of Jango"
+137,1,Corellia,3,Chewbacca
+138,1,Corellia,3,Rey (Jedi Training)
+139,1,Corellia,3,Threepio & Chewie
+140,1,Corellia,3,Clone Sergeant's ARC-170
+141,1,Corellia,3,TIE/IN Interceptor Prototype
+142,1,Corellia,3,Commander Luke Skywalker
+143,1,Corellia,3,Darth Revan
+144,1,Corellia,3,Paploo
+145,1,Corellia,3,Bossk
+146,1,Corellia,3,TIE/IN Interceptor Prototype
+147,1,Corellia,3,Padmé Amidala
+148,1,Corellia,3,Grand Master Yoda
+149,1,Corellia,3,Ghost
+150,1,Corellia,3,Wat Tambor
+151,1,Corellia,2,"Boba Fett, Scion of Jango"
+152,1,Corellia,2,Commander Luke Skywalker
+153,1,Corellia,2,The Mandalorian (Beskar Armor)
+154,1,Corellia,2,BT-1
+155,1,Corellia,2,Geonosian Brood Alpha
+156,1,Corellia,2,Darth Malgus
+157,1,Corellia,2,C-3PO
+158,1,Corellia,2,Darth Revan
+159,1,Corellia,2,Jolee Bindo
+160,1,Corellia,2,Poe Dameron
+161,1,Corellia,2,Ben Solo
+162,1,Corellia,2,Grand Master Yoda
+163,1,Corellia,2,Commander Luke Skywalker
+164,1,Corellia,2,Hunter
+165,1,Corellia,2,Han Solo
+166,1,Corellia,1,"Boba Fett, Scion of Jango"
+167,1,Corellia,1,R2-D2
+168,1,Corellia,1,Darth Revan
+169,1,Corellia,1,Hyena Bomber
+170,1,Corellia,1,Anakin's Eta-2 Starfighter
+171,1,Corellia,1,"Boba Fett, Scion of Jango"
+172,1,Corellia,1,Grand Admiral Thrawn
+173,1,Corellia,1,C-3PO
+174,1,Corellia,1,Ima-Gun Di
+175,1,Corellia,1,Sith Trooper
+176,1,Corellia,1,Commander Ahsoka Tano
+177,1,Corellia,1,Chewbacca
+178,1,Corellia,1,Jedi Knight Revan
+179,1,Corellia,1,Eeth Koth
+180,1,Corellia,1,Darth Traya
+181,1,Coruscant,6,General Skywalker
+182,1,Coruscant,6,Jedi Knight Revan
+183,1,Coruscant,6,Rebel Officer Leia Organa
+184,1,Coruscant,6,Sana Starros
+185,1,Coruscant,6,Raven's Claw
+186,1,Coruscant,6,General Skywalker
+187,1,Coruscant,6,Grand Master Yoda
+188,1,Coruscant,6,Hermit Yoda
+189,1,Coruscant,6,Amilyn Holdo
+190,1,Coruscant,6,Zaalbar
+191,1,Coruscant,6,General Skywalker
+192,1,Coruscant,6,C-3PO
+193,1,Coruscant,6,Ki-Adi-Mundi
+194,1,Coruscant,6,Sabine Wren
+195,1,Coruscant,6,Hermit Yoda
+196,1,Coruscant,5,Jedi Knight Luke Skywalker
+197,1,Coruscant,5,The Mandalorian (Beskar Armor)
+198,1,Coruscant,5,General Kenobi
+199,1,Coruscant,5,Threepio & Chewie
+200,1,Coruscant,5,Phantom II
+201,1,Coruscant,5,Jedi Knight Luke Skywalker
+202,1,Coruscant,5,Commander Luke Skywalker
+203,1,Coruscant,5,Hermit Yoda
+204,1,Coruscant,5,Teebo
+205,1,Coruscant,5,Kuiil
+206,1,Coruscant,5,Jedi Knight Luke Skywalker
+207,1,Coruscant,5,BB-8
+208,1,Coruscant,5,Han Solo
+209,1,Coruscant,5,Jolee Bindo
+210,1,Coruscant,5,Logray
+211,1,Coruscant,4,General Skywalker
+212,1,Coruscant,4,C-3PO
+213,1,Coruscant,4,Han Solo
+214,1,Coruscant,4,Hondo Ohnaka
+215,1,Coruscant,4,Anakin's Eta-2 Starfighter
+216,1,Coruscant,4,General Skywalker
+217,1,Coruscant,4,The Mandalorian (Beskar Armor)
+218,1,Coruscant,4,Logray
+219,1,Coruscant,4,Plo Koon's Jedi Starfighter
+220,1,Coruscant,4,Visas Marr
+221,1,Coruscant,4,Jedi Knight Luke Skywalker
+222,1,Coruscant,4,Jedi Knight Revan
+223,1,Coruscant,4,General Kenobi
+224,1,Coruscant,4,Lobot
+225,1,Coruscant,4,Han Solo
+226,1,Coruscant,3,Jedi Knight Luke Skywalker
+227,1,Coruscant,3,Padmé Amidala
+228,1,Coruscant,3,C-3PO
+229,1,Coruscant,3,Sana Starros
+230,1,Coruscant,3,The Armorer
+231,1,Coruscant,3,Jedi Knight Luke Skywalker
+232,1,Coruscant,3,R2-D2
+233,1,Coruscant,3,BB-8
+234,1,Coruscant,3,Umbaran Starfighter
+235,1,Coruscant,3,Ahsoka Tano (Fulcrum)
+236,1,Coruscant,3,Jedi Knight Luke Skywalker
+237,1,Coruscant,3,Rey (Jedi Training)
+238,1,Coruscant,3,Grand Master Yoda
+239,1,Coruscant,3,Threepio & Chewie
+240,1,Coruscant,3,Hermit Yoda
+241,1,Coruscant,2,General Skywalker
+242,1,Coruscant,2,The Mandalorian (Beskar Armor)
+243,1,Coruscant,2,Chewbacca
+244,1,Coruscant,2,Sana Starros
+245,1,Coruscant,2,Home One
+246,1,Coruscant,2,General Skywalker
+247,1,Coruscant,2,BB-8
+248,1,Coruscant,2,The Mandalorian (Beskar Armor)
+249,1,Coruscant,2,Jyn Erso
+250,1,Coruscant,2,Sana Starros
+251,1,Coruscant,2,General Skywalker
+252,1,Coruscant,2,BB-8
+253,1,Coruscant,2,Chewbacca
+254,1,Coruscant,2,Resistance X-wing
+255,1,Coruscant,2,Hermit Yoda
+256,1,Coruscant,1,General Skywalker
+257,1,Coruscant,1,R2-D2
+258,1,Coruscant,1,Jedi Knight Revan
+259,1,Coruscant,1,L3-37
+260,1,Coruscant,1,Phantom II
+261,1,Coruscant,1,Jedi Knight Luke Skywalker
+262,1,Coruscant,1,BB-8
+263,1,Coruscant,1,Commander Luke Skywalker
+264,1,Coruscant,1,"CC-2224 ""Cody"""
+265,1,Coruscant,1,Barriss Offee
+266,1,Coruscant,1,General Skywalker
+267,1,Coruscant,1,The Mandalorian (Beskar Armor)
+268,1,Coruscant,1,Rey (Jedi Training)
+269,1,Coruscant,1,Greef Karga
+270,1,Coruscant,1,Hermit Yoda
+271,2,Geonosis,6,Executor
+272,2,Geonosis,6,Maul
+273,2,Geonosis,6,"Boba Fett, Scion of Jango"
+274,2,Geonosis,6,Darth Revan
+275,2,Geonosis,6,Kylo Ren's Command Shuttle
+276,2,Geonosis,6,Darth Malak
+277,2,Geonosis,6,TIE/IN Interceptor Prototype
+278,2,Geonosis,6,Grand Admiral Thrawn
+279,2,Geonosis,6,Chimaera
+280,2,Geonosis,6,Hyena Bomber
+281,2,Geonosis,6,Grand Inquisitor
+282,2,Geonosis,6,Darth Malgus
+283,2,Geonosis,6,Scythe
+284,2,Geonosis,6,Emperor Palpatine
+285,2,Geonosis,6,Death Trooper
+286,2,Geonosis,5,Sith Eternal Emperor
+287,2,Geonosis,5,Darth Malgus
+288,2,Geonosis,5,Emperor Palpatine
+289,2,Geonosis,5,Kylo Ren (Unmasked)
+290,2,Geonosis,5,Cad Bane
+291,2,Geonosis,5,Starkiller
+292,2,Geonosis,5,Maul
+293,2,Geonosis,5,Grand Admiral Thrawn
+294,2,Geonosis,5,B2 Super Battle Droid
+295,2,Geonosis,5,Magmatrooper
+296,2,Geonosis,5,Starkiller
+297,2,Geonosis,5,"Boba Fett, Scion of Jango"
+298,2,Geonosis,5,Emperor Palpatine
+299,2,Geonosis,5,Colonel Starck
+300,2,Geonosis,5,Malevolence
+301,2,Geonosis,4,Executor
+302,2,Geonosis,4,TIE/IN Interceptor Prototype
+303,2,Geonosis,4,Scythe
+304,2,Geonosis,4,Wat Tambor
+305,2,Geonosis,4,Emperor's Shuttle
+306,2,Geonosis,4,Grand Inquisitor
+307,2,Geonosis,4,Darth Malgus
+308,2,Geonosis,4,Chimaera
+309,2,Geonosis,4,Imperial Probe Droid
+310,2,Geonosis,4,First Order Officer
+311,2,Geonosis,4,Grand Inquisitor
+312,2,Geonosis,4,TIE/IN Interceptor Prototype
+313,2,Geonosis,4,Darth Revan
+314,2,Geonosis,4,General Grievous
+315,2,Geonosis,4,TIE Echelon
+316,2,Geonosis,3,Supreme Leader Kylo Ren
+317,2,Geonosis,3,TIE/IN Interceptor Prototype
+318,2,Geonosis,3,Darth Malak
+319,2,Geonosis,3,Darth Revan
+320,2,Geonosis,3,General Veers
+321,2,Geonosis,3,Scythe
+322,2,Geonosis,3,TIE/IN Interceptor Prototype
+323,2,Geonosis,3,Emperor Palpatine
+324,2,Geonosis,3,Darth Revan
+325,2,Geonosis,3,First Order Officer
+326,2,Geonosis,3,Darth Malgus
+327,2,Geonosis,3,"Boba Fett, Scion of Jango"
+328,2,Geonosis,3,Chimaera
+329,2,Geonosis,3,Grand Admiral Thrawn
+330,2,Geonosis,3,Asajj Ventress
+331,2,Geonosis,2,Supreme Leader Kylo Ren
+332,2,Geonosis,2,"Boba Fett, Scion of Jango"
+333,2,Geonosis,2,Darth Malak
+334,2,Geonosis,2,Kylo Ren (Unmasked)
+335,2,Geonosis,2,B2 Super Battle Droid
+336,2,Geonosis,2,"Boba Fett, Scion of Jango"
+337,2,Geonosis,2,Darth Malgus
+338,2,Geonosis,2,Grand Admiral Thrawn
+339,2,Geonosis,2,Dengar
+340,2,Geonosis,2,Droideka
+341,2,Geonosis,2,Maul
+342,2,Geonosis,2,Scythe
+343,2,Geonosis,2,Darth Revan
+344,2,Geonosis,2,Darth Talon
+345,2,Geonosis,2,TIE Reaper
+346,2,Geonosis,1,Sith Eternal Emperor
+347,2,Geonosis,1,Scythe
+348,2,Geonosis,1,Starkiller
+349,2,Geonosis,1,Imperial Probe Droid
+350,2,Geonosis,1,HK-47
+351,2,Geonosis,1,Maul
+352,2,Geonosis,1,"Boba Fett, Scion of Jango"
+353,2,Geonosis,1,Chimaera
+354,2,Geonosis,1,Wat Tambor
+355,2,Geonosis,1,Executrix
+356,2,Geonosis,1,"Boba Fett, Scion of Jango"
+357,2,Geonosis,1,Scythe
+358,2,Geonosis,1,Darth Revan
+359,2,Geonosis,1,Imperial Probe Droid
+360,2,Geonosis,1,Scimitar
+361,2,Felucia,6,Sith Eternal Emperor
+362,2,Felucia,6,Commander Ahsoka Tano
+363,2,Felucia,6,Scythe
+364,2,Felucia,6,Han Solo
+365,2,Felucia,6,L3-37
+366,2,Felucia,6,Darth Malak
+367,2,Felucia,6,Ben Solo
+368,2,Felucia,6,"Boba Fett, Scion of Jango"
+369,2,Felucia,6,Rebel Officer Leia Organa
+370,2,Felucia,6,BT-1
+371,2,Felucia,6,Starkiller
+372,2,Felucia,6,"Boba Fett, Scion of Jango"
+373,2,Felucia,6,Darth Malgus
+374,2,Felucia,6,Ki-Adi-Mundi
+375,2,Felucia,6,Lando Calrissian
+376,2,Felucia,5,Rey
+377,2,Felucia,5,Commander Ahsoka Tano
+378,2,Felucia,5,Razor Crest
+379,2,Felucia,5,Bastila Shan
+380,2,Felucia,5,Death Trooper
+381,2,Felucia,5,General Skywalker
+382,2,Felucia,5,Darth Malgus
+383,2,Felucia,5,"Boba Fett, Scion of Jango"
+384,2,Felucia,5,Cassian's U-wing
+385,2,Felucia,5,Sith Trooper
+386,2,Felucia,5,Grand Inquisitor
+387,2,Felucia,5,Darth Malgus
+388,2,Felucia,5,Scythe
+389,2,Felucia,5,Embo
+390,2,Felucia,5,Admiral Ackbar
+391,2,Felucia,4,Supreme Leader Kylo Ren
+392,2,Felucia,4,TIE/IN Interceptor Prototype
+393,2,Felucia,4,Scythe
+394,2,Felucia,4,Logray
+395,2,Felucia,4,General Veers
+396,2,Felucia,4,Grand Inquisitor
+397,2,Felucia,4,"Boba Fett, Scion of Jango"
+398,2,Felucia,4,Maul
+399,2,Felucia,4,Hermit Yoda
+400,2,Felucia,4,Kuiil
+401,2,Felucia,4,General Skywalker
+402,2,Felucia,4,Maul
+403,2,Felucia,4,Darth Malgus
+404,2,Felucia,4,Rebel Officer Leia Organa
+405,2,Felucia,4,Count Dooku
+406,2,Felucia,3,Lord Vader
+407,2,Felucia,3,Scythe
+408,2,Felucia,3,Ben Solo
+409,2,Felucia,3,Rebel Officer Leia Organa
+410,2,Felucia,3,Snowtrooper
+411,2,Felucia,3,Jedi Knight Luke Skywalker
+412,2,Felucia,3,Razor Crest
+413,2,Felucia,3,Commander Ahsoka Tano
+414,2,Felucia,3,Imperial Probe Droid
+415,2,Felucia,3,Sana Starros
+416,2,Felucia,3,Jedi Knight Luke Skywalker
+417,2,Felucia,3,Maul
+418,2,Felucia,3,Scythe
+419,2,Felucia,3,Wat Tambor
+420,2,Felucia,3,General Hux
+421,2,Felucia,2,Jedi Master Luke Skywalker
+422,2,Felucia,2,Commander Ahsoka Tano
+423,2,Felucia,2,Maul
+424,2,Felucia,2,Jawa
+425,2,Felucia,2,Zaalbar
+426,2,Felucia,2,Jedi Knight Luke Skywalker
+427,2,Felucia,2,TIE/IN Interceptor Prototype
+428,2,Felucia,2,Scythe
+429,2,Felucia,2,Emperor's Shuttle
+430,2,Felucia,2,Embo
+431,2,Felucia,2,General Skywalker
+432,2,Felucia,2,Darth Malgus
+433,2,Felucia,2,Commander Ahsoka Tano
+434,2,Felucia,2,The Mandalorian
+435,2,Felucia,2,Outrider
+436,2,Felucia,1,Sith Eternal Emperor
+437,2,Felucia,1,Razor Crest
+438,2,Felucia,1,Ben Solo
+439,2,Felucia,1,Rebel Officer Leia Organa
+440,2,Felucia,1,Plo Koon's Jedi Starfighter
+441,2,Felucia,1,General Skywalker
+442,2,Felucia,1,Scythe
+443,2,Felucia,1,"Boba Fett, Scion of Jango"
+444,2,Felucia,1,Wat Tambor
+445,2,Felucia,1,Threepio & Chewie
+446,2,Felucia,1,Grand Inquisitor
+447,2,Felucia,1,TIE/IN Interceptor Prototype
+448,2,Felucia,1,Commander Ahsoka Tano
+449,2,Felucia,1,General Kenobi
+450,2,Felucia,1,Aayla Secura
+451,2,Bracca,6,Rey
+452,2,Bracca,6,Ben Solo
+453,2,Bracca,6,Razor Crest
+454,2,Bracca,6,Padmé Amidala
+455,2,Bracca,6,Teebo
+456,2,Bracca,6,Vandor Chewbacca
+457,2,Bracca,6,Razor Crest
+458,2,Bracca,6,Commander Ahsoka Tano
+459,2,Bracca,6,Grand Master Yoda
+460,2,Bracca,6,C-3PO
+461,2,Bracca,6,"CT-7567 ""Rex"""
+462,2,Bracca,6,Ben Solo
+463,2,Bracca,6,Razor Crest
+464,2,Bracca,6,Commander Luke Skywalker
+465,2,Bracca,6,Raven's Claw
+466,2,Bracca,5,Jedi Master Kenobi
+467,2,Bracca,5,Razor Crest
+468,2,Bracca,5,Ben Solo
+469,2,Bracca,5,Han's Millennium Falcon
+470,2,Bracca,5,Kanan Jarrus
+471,2,Bracca,5,Outrider
+472,2,Bracca,5,Commander Ahsoka Tano
+473,2,Bracca,5,Razor Crest
+474,2,Bracca,5,Chewbacca
+475,2,Bracca,5,Grand Master Yoda
+476,2,Bracca,5,Bistan's U-wing
+477,2,Bracca,5,Razor Crest
+478,2,Bracca,5,Ben Solo
+479,2,Bracca,5,Rey (Jedi Training)
+480,2,Bracca,5,Ezra Bridger
+481,2,Bracca,4,Profundity
+482,2,Bracca,4,Razor Crest
+483,2,Bracca,4,Ben Solo
+484,2,Bracca,4,Veteran Smuggler Chewbacca
+485,2,Bracca,4,Omega
+486,2,Bracca,4,Greef Karga
+487,2,Bracca,4,Ben Solo
+488,2,Bracca,4,Commander Ahsoka Tano
+489,2,Bracca,4,Ghost
+490,2,Bracca,4,R2-D2
+491,2,Bracca,4,Threepio & Chewie
+492,2,Bracca,4,Commander Ahsoka Tano
+493,2,Bracca,4,Razor Crest
+494,2,Bracca,4,Bodhi Rook
+495,2,Bracca,4,"CT-5555 ""Fives"""
+496,2,Bracca,3,Jedi Master Kenobi
+497,2,Bracca,3,Ben Solo
+498,2,Bracca,3,Rose Tico
+499,2,Bracca,3,Grand Master Yoda
+500,2,Bracca,3,Enfys Nest
+501,2,Bracca,3,Greef Karga
+502,2,Bracca,3,Ben Solo
+503,2,Bracca,3,Kanan Jarrus
+504,2,Bracca,3,BB-8
+505,2,Bracca,3,Rey (Jedi Training)
+506,2,Bracca,3,Endurance
+507,2,Bracca,3,Ben Solo
+508,2,Bracca,3,"CT-21-0408 ""Echo"""
+509,2,Bracca,3,Grand Master Yoda
+510,2,Bracca,3,Ebon Hawk
+511,2,Bracca,2,Profundity
+512,2,Bracca,2,Razor Crest
+513,2,Bracca,2,ARC Trooper
+514,2,Bracca,2,Jedi Knight Revan
+515,2,Bracca,2,BTL-B Y-wing Starfighter
+516,2,Bracca,2,Aayla Secura
+517,2,Bracca,2,Ben Solo
+518,2,Bracca,2,Jedi Consular's Starfighter
+519,2,Bracca,2,BB-8
+520,2,Bracca,2,C-3PO
+521,2,Bracca,2,Young Han Solo
+522,2,Bracca,2,Razor Crest
+523,2,Bracca,2,Pao
+524,2,Bracca,2,Chewbacca
+525,2,Bracca,2,Mon Mothma
+526,2,Bracca,1,Rey
+527,2,Bracca,1,Razor Crest
+528,2,Bracca,1,BTL-B Y-wing Starfighter
+529,2,Bracca,1,Juhani
+530,2,Bracca,1,Outrider
+531,2,Bracca,1,Admiral Raddus
+532,2,Bracca,1,Commander Ahsoka Tano
+533,2,Bracca,1,Poe Dameron's X-wing
+534,2,Bracca,1,Clone Sergeant - Phase I
+535,2,Bracca,1,R2-D2
+536,2,Bracca,1,Boushh (Leia Organa)
+537,2,Bracca,1,Razor Crest
+538,2,Bracca,1,Wedge Antilles
+539,2,Bracca,1,L3-37
+540,2,Bracca,1,Ghost
+541,3,Dathomir,6,Supreme Leader Kylo Ren
+542,3,Dathomir,6,"Boba Fett, Scion of Jango"
+543,3,Dathomir,6,Darth Malgus
+544,3,Dathomir,6,Embo
+545,3,Dathomir,6,Geonosian Soldier's Starfighter
+546,3,Dathomir,6,Supreme Leader Kylo Ren
+547,3,Dathomir,6,Darth Malgus
+548,3,Dathomir,6,Scythe
+549,3,Dathomir,6,Tusken Raider
+550,3,Dathomir,6,Aurra Sing
+551,3,Dathomir,6,"Boba Fett, Scion of Jango"
+552,3,Dathomir,6,Maul
+553,3,Dathomir,6,Chimaera
+554,3,Dathomir,6,Director Krennic
+555,3,Dathomir,6,Imperial TIE Fighter
+556,3,Dathomir,5,Lord Vader
+557,3,Dathomir,5,TIE/IN Interceptor Prototype
+558,3,Dathomir,5,Scythe
+559,3,Dathomir,5,Grand Moff Tarkin
+560,3,Dathomir,5,Emperor's Shuttle
+561,3,Dathomir,5,Sith Eternal Emperor
+562,3,Dathomir,5,Darth Malgus
+563,3,Dathomir,5,TIE/IN Interceptor Prototype
+564,3,Dathomir,5,0-0-0
+565,3,Dathomir,5,Gar Saxon
+566,3,Dathomir,5,TIE/IN Interceptor Prototype
+567,3,Dathomir,5,Darth Malgus
+568,3,Dathomir,5,Grand Admiral Thrawn
+569,3,Dathomir,5,Seventh Sister
+570,3,Dathomir,5,First Order SF TIE Pilot
+571,3,Dathomir,4,Lord Vader
+572,3,Dathomir,4,Darth Malgus
+573,3,Dathomir,4,Scythe
+574,3,Dathomir,4,Sith Trooper
+575,3,Dathomir,4,TIE Advanced x1
+576,3,Dathomir,4,Lord Vader
+577,3,Dathomir,4,"Boba Fett, Scion of Jango"
+578,3,Dathomir,4,Darth Malgus
+579,3,Dathomir,4,IG-88
+580,3,Dathomir,4,Mother Talzin
+581,3,Dathomir,4,Scythe
+582,3,Dathomir,4,Maul
+583,3,Dathomir,4,Darth Revan
+584,3,Dathomir,4,Dengar
+585,3,Dathomir,4,Cad Bane
+586,3,Dathomir,3,Lord Vader
+587,3,Dathomir,3,Maul
+588,3,Dathomir,3,Scythe
+589,3,Dathomir,3,Imperial Probe Droid
+590,3,Dathomir,3,Sith Assassin
+591,3,Dathomir,3,Sith Eternal Emperor
+592,3,Dathomir,3,TIE/IN Interceptor Prototype
+593,3,Dathomir,3,Scythe
+594,3,Dathomir,3,Wat Tambor
+595,3,Dathomir,3,Dark Trooper
+596,3,Dathomir,3,Maul
+597,3,Dathomir,3,Darth Malgus
+598,3,Dathomir,3,Wat Tambor
+599,3,Dathomir,3,Hyena Bomber
+600,3,Dathomir,3,HK-47
+601,3,Dathomir,2,Lord Vader
+602,3,Dathomir,2,Maul
+603,3,Dathomir,2,TIE/IN Interceptor Prototype
+604,3,Dathomir,2,Imperial Probe Droid
+605,3,Dathomir,2,Tusken Raider
+606,3,Dathomir,2,Sith Eternal Emperor
+607,3,Dathomir,2,Scythe
+608,3,Dathomir,2,"Boba Fett, Scion of Jango"
+609,3,Dathomir,2,General Grievous
+610,3,Dathomir,2,General Hux
+611,3,Dathomir,2,TIE/IN Interceptor Prototype
+612,3,Dathomir,2,Scythe
+613,3,Dathomir,2,Wat Tambor
+614,3,Dathomir,2,Talia
+615,3,Dathomir,2,Savage Opress
+616,3,Dathomir,1,Lord Vader
+617,3,Dathomir,1,Maul
+618,3,Dathomir,1,Darth Malgus
+619,3,Dathomir,1,General Grievous
+620,3,Dathomir,1,Geonosian Spy's Starfighter
+621,3,Dathomir,1,Sith Eternal Emperor
+622,3,Dathomir,1,Scythe
+623,3,Dathomir,1,TIE/IN Interceptor Prototype
+624,3,Dathomir,1,Darth Traya
+625,3,Dathomir,1,Dengar
+626,3,Dathomir,1,TIE/IN Interceptor Prototype
+627,3,Dathomir,1,Darth Malgus
+628,3,Dathomir,1,General Grievous
+629,3,Dathomir,1,First Order SF TIE Fighter
+630,3,Dathomir,1,Darth Maul
+631,3,Tatooine,6,Supreme Leader Kylo Ren
+632,3,Tatooine,6,Jedi Knight Luke Skywalker
+633,3,Tatooine,6,Darth Malgus
+634,3,Tatooine,6,Resistance Hero Finn
+635,3,Tatooine,6,Obi-Wan Kenobi (Old Ben)
+636,3,Tatooine,6,Sith Eternal Emperor
+637,3,Tatooine,6,Jedi Knight Luke Skywalker
+638,3,Tatooine,6,Maul
+639,3,Tatooine,6,IG-2000
+640,3,Tatooine,6,First Order SF TIE Fighter
+641,3,Tatooine,6,Darth Malak
+642,3,Tatooine,6,"Boba Fett, Scion of Jango"
+643,3,Tatooine,6,TIE/IN Interceptor Prototype
+644,3,Tatooine,6,Hondo Ohnaka
+645,3,Tatooine,6,Barriss Offee
+646,3,Tatooine,5,Jedi Master Luke Skywalker
+647,3,Tatooine,5,Starkiller
+648,3,Tatooine,5,TIE/IN Interceptor Prototype
+649,3,Tatooine,5,Teebo
+650,3,Tatooine,5,HK-47
+651,3,Tatooine,5,Rey
+652,3,Tatooine,5,General Skywalker
+653,3,Tatooine,5,Scythe
+654,3,Tatooine,5,Finalizer
+655,3,Tatooine,5,Bodhi Rook
+656,3,Tatooine,5,Jedi Knight Luke Skywalker
+657,3,Tatooine,5,Maul
+658,3,Tatooine,5,Darth Malgus
+659,3,Tatooine,5,B1 Battle Droid
+660,3,Tatooine,5,Hoth Rebel Scout
+661,3,Tatooine,4,Jedi Master Kenobi
+662,3,Tatooine,4,Darth Malak
+663,3,Tatooine,4,Razor Crest
+664,3,Tatooine,4,Ewok Elder
+665,3,Tatooine,4,Kylo Ren (Unmasked)
+666,3,Tatooine,4,Jedi Master Luke Skywalker
+667,3,Tatooine,4,Starkiller
+668,3,Tatooine,4,Scythe
+669,3,Tatooine,4,Resistance Hero Poe
+670,3,Tatooine,4,Coruscant Underworld Police
+671,3,Tatooine,4,Jedi Knight Luke Skywalker
+672,3,Tatooine,4,"Boba Fett, Scion of Jango"
+673,3,Tatooine,4,Commander Ahsoka Tano
+674,3,Tatooine,4,TIE Reaper
+675,3,Tatooine,4,Young Han Solo
+676,3,Tatooine,3,Supreme Leader Kylo Ren
+677,3,Tatooine,3,Ben Solo
+678,3,Tatooine,3,Maul
+679,3,Tatooine,3,Skiff Guard (Lando Calrissian)
+680,3,Tatooine,3,"Mara Jade, The Emperor's Hand"
+681,3,Tatooine,3,Jedi Master Kenobi
+682,3,Tatooine,3,Razor Crest
+683,3,Tatooine,3,Darth Malgus
+684,3,Tatooine,3,Rose Tico
+685,3,Tatooine,3,Ewok Scout
+686,3,Tatooine,3,Darth Malgus
+687,3,Tatooine,3,"Boba Fett, Scion of Jango"
+688,3,Tatooine,3,Scythe
+689,3,Tatooine,3,Luminara Unduli
+690,3,Tatooine,3,Hunter
+691,3,Tatooine,2,Sith Eternal Emperor
+692,3,Tatooine,2,Maul
+693,3,Tatooine,2,Commander Ahsoka Tano
+694,3,Tatooine,2,Nightsister Acolyte
+695,3,Tatooine,2,Bastila Shan (Fallen)
+696,3,Tatooine,2,Jedi Master Kenobi
+697,3,Tatooine,2,TIE/IN Interceptor Prototype
+698,3,Tatooine,2,Razor Crest
+699,3,Tatooine,2,50R-T
+700,3,Tatooine,2,Obi-Wan Kenobi (Old Ben)
+701,3,Tatooine,2,"Boba Fett, Scion of Jango"
+702,3,Tatooine,2,Scythe
+703,3,Tatooine,2,TIE/IN Interceptor Prototype
+704,3,Tatooine,2,Outrider
+705,3,Tatooine,2,Qui-Gon Jinn
+706,3,Tatooine,1,Sith Eternal Emperor
+707,3,Tatooine,1,Maul
+708,3,Tatooine,1,"Boba Fett, Scion of Jango"
+709,3,Tatooine,1,Tusken Chieftain
+710,3,Tatooine,1,Gauntlet Starfighter
+711,3,Tatooine,1,Rey
+712,3,Tatooine,1,Commander Ahsoka Tano
+713,3,Tatooine,1,Darth Malgus
+714,3,Tatooine,1,Geonosian Spy
+715,3,Tatooine,1,Chirrut Îmwe
+716,3,Tatooine,1,TIE/IN Interceptor Prototype
+717,3,Tatooine,1,Razor Crest
+718,3,Tatooine,1,"Boba Fett, Scion of Jango"
+719,3,Tatooine,1,Cara Dune
+720,3,Tatooine,1,Bastila Shan (Fallen)
+721,3,Kashyyyk,6,Jedi Master Luke Skywalker
+722,3,Kashyyyk,6,Padmé Amidala
+723,3,Kashyyyk,6,Ben Solo
+724,3,Kashyyyk,6,Ewok Scout
+725,3,Kashyyyk,6,Hoth Rebel Soldier
+726,3,Kashyyyk,6,Rey
+727,3,Kashyyyk,6,Jedi Knight Revan
+728,3,Kashyyyk,6,Ben Solo
+729,3,Kashyyyk,6,Resistance Trooper
+730,3,Kashyyyk,6,Han's Millennium Falcon
+731,3,Kashyyyk,6,Razor Crest
+732,3,Kashyyyk,6,Commander Luke Skywalker
+733,3,Kashyyyk,6,Han's Millennium Falcon
+734,3,Kashyyyk,6,Negotiator
+735,3,Kashyyyk,6,Han Solo
+736,3,Kashyyyk,5,Jedi Master Luke Skywalker
+737,3,Kashyyyk,5,Grand Master Yoda
+738,3,Kashyyyk,5,Ben Solo
+739,3,Kashyyyk,5,Greef Karga
+740,3,Kashyyyk,5,K-2SO
+741,3,Kashyyyk,5,Rey
+742,3,Kashyyyk,5,Greef Karga
+743,3,Kashyyyk,5,Commander Ahsoka Tano
+744,3,Kashyyyk,5,Padmé Amidala
+745,3,Kashyyyk,5,Commander Luke Skywalker
+746,3,Kashyyyk,5,Ben Solo
+747,3,Kashyyyk,5,C-3PO
+748,3,Kashyyyk,5,Rey (Jedi Training)
+749,3,Kashyyyk,5,Greef Karga
+750,3,Kashyyyk,5,Logray
+751,3,Kashyyyk,4,Rey
+752,3,Kashyyyk,4,Han's Millennium Falcon
+753,3,Kashyyyk,4,Razor Crest
+754,3,Kashyyyk,4,Resistance Trooper
+755,3,Kashyyyk,4,Hoth Rebel Scout
+756,3,Kashyyyk,4,Rey
+757,3,Kashyyyk,4,C-3PO
+758,3,Kashyyyk,4,Ben Solo
+759,3,Kashyyyk,4,Lando's Millennium Falcon
+760,3,Kashyyyk,4,Greef Karga
+761,3,Kashyyyk,4,Commander Ahsoka Tano
+762,3,Kashyyyk,4,BB-8
+763,3,Kashyyyk,4,R2-D2
+764,3,Kashyyyk,4,"CT-5555 ""Fives"""
+765,3,Kashyyyk,4,Logray
+766,3,Kashyyyk,3,Jedi Master Luke Skywalker
+767,3,Kashyyyk,3,R2-D2
+768,3,Kashyyyk,3,Rebel Officer Leia Organa
+769,3,Kashyyyk,3,Razor Crest
+770,3,Kashyyyk,3,Skiff Guard (Lando Calrissian)
+771,3,Kashyyyk,3,Jedi Master Luke Skywalker
+772,3,Kashyyyk,3,Han's Millennium Falcon
+773,3,Kashyyyk,3,Rebel Officer Leia Organa
+774,3,Kashyyyk,3,Ben Solo
+775,3,Kashyyyk,3,Grand Master Yoda
+776,3,Kashyyyk,3,Commander Ahsoka Tano
+777,3,Kashyyyk,3,Greef Karga
+778,3,Kashyyyk,3,Ki-Adi-Mundi
+779,3,Kashyyyk,3,Clone Sergeant - Phase I
+780,3,Kashyyyk,3,General Kenobi
+781,3,Kashyyyk,2,Jedi Master Kenobi
+782,3,Kashyyyk,2,BB-8
+783,3,Kashyyyk,2,Logray
+784,3,Kashyyyk,2,Commander Ahsoka Tano
+785,3,Kashyyyk,2,Raven's Claw
+786,3,Kashyyyk,2,Jedi Master Kenobi
+787,3,Kashyyyk,2,Han's Millennium Falcon
+788,3,Kashyyyk,2,Ki-Adi-Mundi
+789,3,Kashyyyk,2,Commander Ahsoka Tano
+790,3,Kashyyyk,2,Jedi Knight Revan
+791,3,Kashyyyk,2,Razor Crest
+792,3,Kashyyyk,2,Commander Luke Skywalker
+793,3,Kashyyyk,2,Ki-Adi-Mundi
+794,3,Kashyyyk,2,BB-8
+795,3,Kashyyyk,2,Logray
+796,3,Kashyyyk,1,Rey
+797,3,Kashyyyk,1,R2-D2
+798,3,Kashyyyk,1,Hermit Yoda
+799,3,Kashyyyk,1,Razor Crest
+800,3,Kashyyyk,1,Jedi Knight Anakin
+801,3,Kashyyyk,1,Jedi Master Luke Skywalker
+802,3,Kashyyyk,1,Padmé Amidala
+803,3,Kashyyyk,1,Hermit Yoda
+804,3,Kashyyyk,1,Razor Crest
+805,3,Kashyyyk,1,C-3PO
+806,3,Kashyyyk,1,Commander Ahsoka Tano
+807,3,Kashyyyk,1,R2-D2
+808,3,Kashyyyk,1,Logray
+809,3,Kashyyyk,1,Mace Windu
+810,3,Kashyyyk,1,Han Solo
+811,3,Zeffo,6,Jedi Master Kenobi
+812,3,Zeffo,6,General Skywalker
+813,3,Zeffo,6,Ki-Adi-Mundi
+814,3,Zeffo,6,Jedi Knight Guardian
+815,3,Zeffo,6,Visas Marr
+816,3,Zeffo,6,Jedi Master Kenobi
+817,3,Zeffo,6,Padmé Amidala
+818,3,Zeffo,6,Commander Luke Skywalker
+819,3,Zeffo,6,Chirrut Îmwe
+820,3,Zeffo,6,Jolee Bindo
+821,3,Zeffo,6,Razor Crest
+822,3,Zeffo,6,Jedi Knight Luke Skywalker
+823,3,Zeffo,6,Rey (Jedi Training)
+824,3,Zeffo,6,Plo Koon
+825,3,Zeffo,6,Clone Sergeant's ARC-170
+826,3,Zeffo,5,Jedi Master Luke Skywalker
+827,3,Zeffo,5,General Skywalker
+828,3,Zeffo,5,Ki-Adi-Mundi
+829,3,Zeffo,5,Luke Skywalker (Farmboy)
+830,3,Zeffo,5,Mission Vao
+831,3,Zeffo,5,Rey
+832,3,Zeffo,5,R2-D2
+833,3,Zeffo,5,Commander Luke Skywalker
+834,3,Zeffo,5,"Garazeb ""Zeb"" Orrelios"
+835,3,Zeffo,5,Chief Chirpa
+836,3,Zeffo,5,Ben Solo
+837,3,Zeffo,5,Jedi Knight Luke Skywalker
+838,3,Zeffo,5,Rey (Jedi Training)
+839,3,Zeffo,5,Jedi Consular
+840,3,Zeffo,5,Enfys Nest
+841,3,Zeffo,4,Jedi Master Luke Skywalker
+842,3,Zeffo,4,General Skywalker
+843,3,Zeffo,4,Ki-Adi-Mundi
+844,3,Zeffo,4,Jedi Knight Guardian
+845,3,Zeffo,4,Wrecker
+846,3,Zeffo,4,Rey
+847,3,Zeffo,4,Jedi Knight Revan
+848,3,Zeffo,4,Commander Luke Skywalker
+849,3,Zeffo,4,Kit Fisto
+850,3,Zeffo,4,Jolee Bindo
+851,3,Zeffo,4,Ben Solo
+852,3,Zeffo,4,Jedi Knight Luke Skywalker
+853,3,Zeffo,4,Rey (Jedi Training)
+854,3,Zeffo,4,Luke Skywalker (Farmboy)
+855,3,Zeffo,4,Qi'ra
+856,3,Zeffo,3,Jedi Master Luke Skywalker
+857,3,Zeffo,3,General Skywalker
+858,3,Zeffo,3,Ki-Adi-Mundi
+859,3,Zeffo,3,MG-100 StarFortress SF-17
+860,3,Zeffo,3,Kyle Katarn
+861,3,Zeffo,3,Jedi Master Luke Skywalker
+862,3,Zeffo,3,C-3PO
+863,3,Zeffo,3,Han Solo
+864,3,Zeffo,3,Clone Sergeant - Phase I
+865,3,Zeffo,3,Juhani
+866,3,Zeffo,3,Ben Solo
+867,3,Zeffo,3,Jedi Knight Luke Skywalker
+868,3,Zeffo,3,General Kenobi
+869,3,Zeffo,3,Jedi Consular
+870,3,Zeffo,3,Raddus
+871,3,Zeffo,2,Jedi Master Kenobi
+872,3,Zeffo,2,General Skywalker
+873,3,Zeffo,2,Ki-Adi-Mundi
+874,3,Zeffo,2,Jedi Knight Guardian
+875,3,Zeffo,2,Rex's ARC-170
+876,3,Zeffo,2,Jedi Master Kenobi
+877,3,Zeffo,2,Chewbacca
+878,3,Zeffo,2,Han Solo
+879,3,Zeffo,2,Clone Sergeant - Phase I
+880,3,Zeffo,2,Chief Chirpa
+881,3,Zeffo,2,Razor Crest
+882,3,Zeffo,2,Jedi Knight Luke Skywalker
+883,3,Zeffo,2,Hermit Yoda
+884,3,Zeffo,2,Kyle Katarn
+885,3,Zeffo,2,Home One
+886,3,Zeffo,1,Rey
+887,3,Zeffo,1,General Skywalker
+888,3,Zeffo,1,Ki-Adi-Mundi
+889,3,Zeffo,1,Jedi Consular
+890,3,Zeffo,1,MG-100 StarFortress SF-17
+891,3,Zeffo,1,Jedi Master Luke Skywalker
+892,3,Zeffo,1,BB-8
+893,3,Zeffo,1,Han Solo
+894,3,Zeffo,1,Chirrut Îmwe
+895,3,Zeffo,1,Jolee Bindo
+896,3,Zeffo,1,Commander Ahsoka Tano
+897,3,Zeffo,1,Jedi Knight Luke Skywalker
+898,3,Zeffo,1,General Kenobi
+899,3,Zeffo,1,Kyle Katarn
+900,3,Zeffo,1,Jedi Consular's Starfighter
+901,4,Haven-class Medical Station,6,Supreme Leader Kylo Ren
+902,4,Haven-class Medical Station,6,TIE/IN Interceptor Prototype
+903,4,Haven-class Medical Station,6,First Order TIE Pilot
+904,4,Haven-class Medical Station,6,Dathcha
+905,4,Haven-class Medical Station,6,"Boba Fett, Scion of Jango"
+906,4,Haven-class Medical Station,6,Lord Vader
+907,4,Haven-class Medical Station,6,Scythe
+908,4,Haven-class Medical Station,6,B2 Super Battle Droid
+909,4,Haven-class Medical Station,6,Malevolence
+910,4,Haven-class Medical Station,6,Emperor's Shuttle
+911,4,Haven-class Medical Station,6,Executor
+912,4,Haven-class Medical Station,6,TIE/IN Interceptor Prototype
+913,4,Haven-class Medical Station,6,Hondo Ohnaka
+914,4,Haven-class Medical Station,6,Emperor's Shuttle
+915,4,Haven-class Medical Station,6,TIE Fighter Pilot
+916,4,Haven-class Medical Station,5,Supreme Leader Kylo Ren
+917,4,Haven-class Medical Station,5,Maul
+918,4,Haven-class Medical Station,5,Aurra Sing
+919,4,Haven-class Medical Station,5,"Mara Jade, The Emperor's Hand"
+920,4,Haven-class Medical Station,5,Scythe
+921,4,Haven-class Medical Station,5,Sith Eternal Emperor
+922,4,Haven-class Medical Station,5,TIE/IN Interceptor Prototype
+923,4,Haven-class Medical Station,5,Seventh Sister
+924,4,Haven-class Medical Station,5,General Veers
+925,4,Haven-class Medical Station,5,Second Sister
+926,4,Haven-class Medical Station,5,Executor
+927,4,Haven-class Medical Station,5,Maul
+928,4,Haven-class Medical Station,5,Hyena Bomber
+929,4,Haven-class Medical Station,5,Asajj Ventress
+930,4,Haven-class Medical Station,5,Savage Opress
+931,4,Haven-class Medical Station,4,Lord Vader
+932,4,Haven-class Medical Station,4,"Boba Fett, Scion of Jango"
+933,4,Haven-class Medical Station,4,Krrsantan
+934,4,Haven-class Medical Station,4,Asajj Ventress
+935,4,Haven-class Medical Station,4,TIE/IN Interceptor Prototype
+936,4,Haven-class Medical Station,4,Lord Vader
+937,4,Haven-class Medical Station,4,Scythe
+938,4,Haven-class Medical Station,4,HK-47
+939,4,Haven-class Medical Station,4,Nightsister Acolyte
+940,4,Haven-class Medical Station,4,Wampa
+941,4,Haven-class Medical Station,4,Supreme Leader Kylo Ren
+942,4,Haven-class Medical Station,4,"Boba Fett, Scion of Jango"
+943,4,Haven-class Medical Station,4,Director Krennic
+944,4,Haven-class Medical Station,4,Eighth Brother
+945,4,Haven-class Medical Station,4,IG-88
+946,4,Haven-class Medical Station,3,Executor
+947,4,Haven-class Medical Station,3,Starkiller
+948,4,Haven-class Medical Station,3,TIE/IN Interceptor Prototype
+949,4,Haven-class Medical Station,3,TIE Silencer
+950,4,Haven-class Medical Station,3,Snowtrooper
+951,4,Haven-class Medical Station,3,Lord Vader
+952,4,Haven-class Medical Station,3,Darth Malak
+953,4,Haven-class Medical Station,3,Darth Malgus
+954,4,Haven-class Medical Station,3,Nightsister Initiate
+955,4,Haven-class Medical Station,3,Darth Maul
+956,4,Haven-class Medical Station,3,Supreme Leader Kylo Ren
+957,4,Haven-class Medical Station,3,Starkiller
+958,4,Haven-class Medical Station,3,Darth Malgus
+959,4,Haven-class Medical Station,3,Dengar
+960,4,Haven-class Medical Station,3,Hyena Bomber
+961,4,Haven-class Medical Station,2,Supreme Leader Kylo Ren
+962,4,Haven-class Medical Station,2,Starkiller
+963,4,Haven-class Medical Station,2,"Boba Fett, Scion of Jango"
+964,4,Haven-class Medical Station,2,Nightsister Zombie
+965,4,Haven-class Medical Station,2,Aurra Sing
+966,4,Haven-class Medical Station,2,Sith Eternal Emperor
+967,4,Haven-class Medical Station,2,Starkiller
+968,4,Haven-class Medical Station,2,TIE/IN Interceptor Prototype
+969,4,Haven-class Medical Station,2,Cad Bane
+970,4,Haven-class Medical Station,2,First Order Stormtrooper
+971,4,Haven-class Medical Station,2,Sith Eternal Emperor
+972,4,Haven-class Medical Station,2,Darth Malak
+973,4,Haven-class Medical Station,2,TIE/IN Interceptor Prototype
+974,4,Haven-class Medical Station,2,Iden Versio
+975,4,Haven-class Medical Station,2,Snowtrooper
+976,4,Haven-class Medical Station,1,Executor
+977,4,Haven-class Medical Station,1,Darth Malak
+978,4,Haven-class Medical Station,1,Scythe
+979,4,Haven-class Medical Station,1,Embo
+980,4,Haven-class Medical Station,1,BT-1
+981,4,Haven-class Medical Station,1,Lord Vader
+982,4,Haven-class Medical Station,1,Starkiller
+983,4,Haven-class Medical Station,1,Maul
+984,4,Haven-class Medical Station,1,Bastila Shan (Fallen)
+985,4,Haven-class Medical Station,1,Darth Vader
+986,4,Haven-class Medical Station,1,Sith Eternal Emperor
+987,4,Haven-class Medical Station,1,Starkiller
+988,4,Haven-class Medical Station,1,Scythe
+989,4,Haven-class Medical Station,1,Nightsister Spirit
+990,4,Haven-class Medical Station,1,Range Trooper
+991,4,Kessel,6,Supreme Leader Kylo Ren
+992,4,Kessel,6,Starkiller
+993,4,Kessel,6,Commander Ahsoka Tano
+994,4,Kessel,6,Dark Trooper
+995,4,Kessel,6,Kylo Ren
+996,4,Kessel,6,Rey
+997,4,Kessel,6,Darth Malak
+998,4,Kessel,6,Ben Solo
+999,4,Kessel,6,Admiral Ackbar
+1000,4,Kessel,6,Commander Ahsoka Tano
+1001,4,Kessel,6,Sith Eternal Emperor
+1002,4,Kessel,6,Darth Malak
+1003,4,Kessel,6,Razor Crest
+1004,4,Kessel,6,Sith Empire Trooper
+1005,4,Kessel,6,TIE Silencer
+1006,4,Kessel,5,Rey
+1007,4,Kessel,5,Jedi Knight Luke Skywalker
+1008,4,Kessel,5,"Boba Fett, Scion of Jango"
+1009,4,Kessel,5,50R-T
+1010,4,Kessel,5,Rebel Y-wing
+1011,4,Kessel,5,Executor
+1012,4,Kessel,5,Jedi Knight Luke Skywalker
+1013,4,Kessel,5,Maul
+1014,4,Kessel,5,IG-88
+1015,4,Kessel,5,Razor Crest
+1016,4,Kessel,5,Sith Eternal Emperor
+1017,4,Kessel,5,General Skywalker
+1018,4,Kessel,5,Scythe
+1019,4,Kessel,5,B-28 Extinction-class Bomber
+1020,4,Kessel,5,Asajj Ventress
+1021,4,Kessel,4,Rey
+1022,4,Kessel,4,Starkiller
+1023,4,Kessel,4,Darth Malgus
+1024,4,Kessel,4,Bo-Katan Kryze
+1025,4,Kessel,4,Bistan
+1026,4,Kessel,4,Rey
+1027,4,Kessel,4,Jedi Knight Luke Skywalker
+1028,4,Kessel,4,Maul
+1029,4,Kessel,4,Hoth Rebel Soldier
+1030,4,Kessel,4,Scythe
+1031,4,Kessel,4,Lord Vader
+1032,4,Kessel,4,General Skywalker
+1033,4,Kessel,4,Ben Solo
+1034,4,Kessel,4,Baze Malbus
+1035,4,Kessel,4,General Veers
+1036,4,Kessel,3,Sith Eternal Emperor
+1037,4,Kessel,3,General Skywalker
+1038,4,Kessel,3,TIE/IN Interceptor Prototype
+1039,4,Kessel,3,Slave I
+1040,4,Kessel,3,The Mandalorian
+1041,4,Kessel,3,Supreme Leader Kylo Ren
+1042,4,Kessel,3,Starkiller
+1043,4,Kessel,3,Razor Crest
+1044,4,Kessel,3,Nightsister Initiate
+1045,4,Kessel,3,TIE/IN Interceptor Prototype
+1046,4,Kessel,3,Sith Eternal Emperor
+1047,4,Kessel,3,Starkiller
+1048,4,Kessel,3,Scythe
+1049,4,Kessel,3,Seventh Sister
+1050,4,Kessel,3,Nightsister Initiate
+1051,4,Kessel,2,Sith Eternal Emperor
+1052,4,Kessel,2,Starkiller
+1053,4,Kessel,2,Darth Malgus
+1054,4,Kessel,2,Echo
+1055,4,Kessel,2,Aurra Sing
+1056,4,Kessel,2,Rey
+1057,4,Kessel,2,Darth Malak
+1058,4,Kessel,2,Razor Crest
+1059,4,Kessel,2,Rex's ARC-170
+1060,4,Kessel,2,Ben Solo
+1061,4,Kessel,2,Jedi Master Kenobi
+1062,4,Kessel,2,Starkiller
+1063,4,Kessel,2,Maul
+1064,4,Kessel,2,Gamorrean Guard
+1065,4,Kessel,2,Sith Fighter
+1066,4,Kessel,1,Rey
+1067,4,Kessel,1,Jedi Knight Luke Skywalker
+1068,4,Kessel,1,TIE/IN Interceptor Prototype
+1069,4,Kessel,1,Jedi Consular's Starfighter
+1070,4,Kessel,1,Outrider
+1071,4,Kessel,1,Lord Vader
+1072,4,Kessel,1,General Skywalker
+1073,4,Kessel,1,TIE/IN Interceptor Prototype
+1074,4,Kessel,1,Ebon Hawk
+1075,4,Kessel,1,"Boba Fett, Scion of Jango"
+1076,4,Kessel,1,Executor
+1077,4,Kessel,1,Starkiller
+1078,4,Kessel,1,TIE/IN Interceptor Prototype
+1079,4,Kessel,1,Coruscant Underworld Police
+1080,4,Kessel,1,Poggle the Lesser
+1081,4,Lothal,6,Jedi Master Luke Skywalker
+1082,4,Lothal,6,General Kenobi
+1083,4,Lothal,6,Wicket
+1084,4,Lothal,6,50R-T
+1085,4,Lothal,6,Hondo Ohnaka
+1086,4,Lothal,6,Jedi Master Luke Skywalker
+1087,4,Lothal,6,Hermit Yoda
+1088,4,Lothal,6,Echo
+1089,4,Lothal,6,Aayla Secura
+1090,4,Lothal,6,Ben Solo
+1091,4,Lothal,6,Jedi Master Luke Skywalker
+1092,4,Lothal,6,Rebel Officer Leia Organa
+1093,4,Lothal,6,Wedge Antilles's X-wing
+1094,4,Lothal,6,Sana Starros
+1095,4,Lothal,6,Padmé Amidala
+1096,4,Lothal,5,Profundity
+1097,4,Lothal,5,Logray
+1098,4,Lothal,5,Bistan
+1099,4,Lothal,5,Han's Millennium Falcon
+1100,4,Lothal,5,Plo Koon's Jedi Starfighter
+1101,4,Lothal,5,Jedi Master Kenobi
+1102,4,Lothal,5,Logray
+1103,4,Lothal,5,Jedi Consular
+1104,4,Lothal,5,Grand Master Yoda
+1105,4,Lothal,5,Razor Crest
+1106,4,Lothal,5,Jedi Master Kenobi
+1107,4,Lothal,5,Han Solo
+1108,4,Lothal,5,Tech
+1109,4,Lothal,5,Padmé Amidala
+1110,4,Lothal,5,Jedi Knight Revan
+1111,4,Lothal,4,Jedi Master Luke Skywalker
+1112,4,Lothal,4,Rebel Officer Leia Organa
+1113,4,Lothal,4,Outrider
+1114,4,Lothal,4,Scarif Rebel Pathfinder
+1115,4,Lothal,4,Eeth Koth
+1116,4,Lothal,4,Jedi Master Luke Skywalker
+1117,4,Lothal,4,General Kenobi
+1118,4,Lothal,4,Scarif Rebel Pathfinder
+1119,4,Lothal,4,Jolee Bindo
+1120,4,Lothal,4,Commander Ahsoka Tano
+1121,4,Lothal,4,Profundity
+1122,4,Lothal,4,Rebel Officer Leia Organa
+1123,4,Lothal,4,Plo Koon's Jedi Starfighter
+1124,4,Lothal,4,Kyle Katarn
+1125,4,Lothal,4,Rey (Jedi Training)
+1126,4,Lothal,3,Profundity
+1127,4,Lothal,3,Hermit Yoda
+1128,4,Lothal,3,Ben Solo
+1129,4,Lothal,3,Ebon Hawk
+1130,4,Lothal,3,Chief Nebit
+1131,4,Lothal,3,Rey
+1132,4,Lothal,3,Ki-Adi-Mundi
+1133,4,Lothal,3,Commander Ahsoka Tano
+1134,4,Lothal,3,50R-T
+1135,4,Lothal,3,Raven's Claw
+1136,4,Lothal,3,Profundity
+1137,4,Lothal,3,Hermit Yoda
+1138,4,Lothal,3,Razor Crest
+1139,4,Lothal,3,Finn
+1140,4,Lothal,3,R2-D2
+1141,4,Lothal,2,Jedi Master Luke Skywalker
+1142,4,Lothal,2,General Kenobi
+1143,4,Lothal,2,Commander Ahsoka Tano
+1144,4,Lothal,2,Chewbacca
+1145,4,Lothal,2,Xanadu Blood
+1146,4,Lothal,2,Profundity
+1147,4,Lothal,2,Hermit Yoda
+1148,4,Lothal,2,Commander Ahsoka Tano
+1149,4,Lothal,2,BB-8
+1150,4,Lothal,2,Zaalbar
+1151,4,Lothal,2,Profundity
+1152,4,Lothal,2,Ki-Adi-Mundi
+1153,4,Lothal,2,Commander Ahsoka Tano
+1154,4,Lothal,2,The Mandalorian (Beskar Armor)
+1155,4,Lothal,2,Chewbacca
+1156,4,Lothal,1,Profundity
+1157,4,Lothal,1,Han Solo
+1158,4,Lothal,1,Razor Crest
+1159,4,Lothal,1,Xanadu Blood
+1160,4,Lothal,1,Rebel Y-wing
+1161,4,Lothal,1,Jedi Master Luke Skywalker
+1162,4,Lothal,1,Rebel Officer Leia Organa
+1163,4,Lothal,1,Razor Crest
+1164,4,Lothal,1,Zaalbar
+1165,4,Lothal,1,Dash Rendar
+1166,4,Lothal,1,Jedi Master Luke Skywalker
+1167,4,Lothal,1,Hermit Yoda
+1168,4,Lothal,1,Ben Solo
+1169,4,Lothal,1,Veteran Smuggler Chewbacca
+1170,4,Lothal,1,Jedi Knight Revan
+1171,5,Malachor,6,Sith Eternal Emperor
+1172,5,Malachor,6,Maul
+1173,5,Malachor,6,Starkiller
+1174,5,Malachor,6,Moff Gideon
+1175,5,Malachor,6,IG-88
+1176,5,Malachor,6,Executor
+1177,5,Malachor,6,"Boba Fett, Scion of Jango"
+1178,5,Malachor,6,Darth Malak
+1179,5,Malachor,6,Iden Versio
+1180,5,Malachor,6,First Order Officer
+1181,5,Malachor,6,Sith Eternal Emperor
+1182,5,Malachor,6,Maul
+1183,5,Malachor,6,Starkiller
+1184,5,Malachor,6,B-28 Extinction-class Bomber
+1185,5,Malachor,6,First Order TIE Fighter
+1186,5,Malachor,5,Sith Eternal Emperor
+1187,5,Malachor,5,Darth Malgus
+1188,5,Malachor,5,Starkiller
+1189,5,Malachor,5,Kylo Ren (Unmasked)
+1190,5,Malachor,5,IG-2000
+1191,5,Malachor,5,Supreme Leader Kylo Ren
+1192,5,Malachor,5,"Boba Fett, Scion of Jango"
+1193,5,Malachor,5,Starkiller
+1194,5,Malachor,5,Colonel Starck
+1195,5,Malachor,5,IG-88
+1196,5,Malachor,5,Executor
+1197,5,Malachor,5,Scythe
+1198,5,Malachor,5,Grand Inquisitor
+1199,5,Malachor,5,Magmatrooper
+1200,5,Malachor,5,Sith Empire Trooper
+1201,5,Malachor,4,Supreme Leader Kylo Ren
+1202,5,Malachor,4,"Boba Fett, Scion of Jango"
+1203,5,Malachor,4,Darth Malak
+1204,5,Malachor,4,Geonosian Soldier
+1205,5,Malachor,4,Geonosian Soldier's Starfighter
+1206,5,Malachor,4,Sith Eternal Emperor
+1207,5,Malachor,4,Darth Malgus
+1208,5,Malachor,4,Starkiller
+1209,5,Malachor,4,Executrix
+1210,5,Malachor,4,Count Dooku
+1211,5,Malachor,4,Sith Eternal Emperor
+1212,5,Malachor,4,"Boba Fett, Scion of Jango"
+1213,5,Malachor,4,Starkiller
+1214,5,Malachor,4,Snowtrooper
+1215,5,Malachor,4,Hyena Bomber
+1216,5,Malachor,3,Lord Vader
+1217,5,Malachor,3,Scythe
+1218,5,Malachor,3,Darth Malak
+1219,5,Malachor,3,Jango Fett
+1220,5,Malachor,3,Maul
+1221,5,Malachor,3,Lord Vader
+1222,5,Malachor,3,Scythe
+1223,5,Malachor,3,Starkiller
+1224,5,Malachor,3,Gauntlet Starfighter
+1225,5,Malachor,3,IG-88
+1226,5,Malachor,3,Executor
+1227,5,Malachor,3,"Boba Fett, Scion of Jango"
+1228,5,Malachor,3,Darth Malak
+1229,5,Malachor,3,First Order TIE Pilot
+1230,5,Malachor,3,Wampa
+1231,5,Malachor,2,Lord Vader
+1232,5,Malachor,2,"Boba Fett, Scion of Jango"
+1233,5,Malachor,2,Grand Inquisitor
+1234,5,Malachor,2,Kylo Ren
+1235,5,Malachor,2,Scythe
+1236,5,Malachor,2,Supreme Leader Kylo Ren
+1237,5,Malachor,2,Darth Malgus
+1238,5,Malachor,2,Starkiller
+1239,5,Malachor,2,First Order SF TIE Pilot
+1240,5,Malachor,2,Tusken Shaman
+1241,5,Malachor,2,Lord Vader
+1242,5,Malachor,2,Scythe
+1243,5,Malachor,2,Darth Malak
+1244,5,Malachor,2,Nightsister Zombie
+1245,5,Malachor,2,Talia
+1246,5,Malachor,1,Executor
+1247,5,Malachor,1,"Boba Fett, Scion of Jango"
+1248,5,Malachor,1,Grand Inquisitor
+1249,5,Malachor,1,First Order SF TIE Pilot
+1250,5,Malachor,1,Darth Malgus
+1251,5,Malachor,1,Executor
+1252,5,Malachor,1,Scythe
+1253,5,Malachor,1,Starkiller
+1254,5,Malachor,1,Sith Empire Trooper
+1255,5,Malachor,1,Sith Assassin
+1256,5,Malachor,1,Sith Eternal Emperor
+1257,5,Malachor,1,Darth Malgus
+1258,5,Malachor,1,Darth Malak
+1259,5,Malachor,1,Boba Fett
+1260,5,Malachor,1,Vulture Droid
+1261,5,Vandor,6,Lord Vader
+1262,5,Vandor,6,Darth Malgus
+1263,5,Vandor,6,Grand Inquisitor
+1264,5,Vandor,6,Old Daka
+1265,5,Vandor,6,Chewbacca
+1266,5,Vandor,6,Jedi Master Luke Skywalker
+1267,5,Vandor,6,Razor Crest
+1268,5,Vandor,6,Grand Inquisitor
+1269,5,Vandor,6,Hyena Bomber
+1270,5,Vandor,6,Nightsister Initiate
+1271,5,Vandor,6,Executor
+1272,5,Vandor,6,Commander Ahsoka Tano
+1273,5,Vandor,6,Grand Inquisitor
+1274,5,Vandor,6,Echo
+1275,5,Vandor,6,TIE Echelon
+1276,5,Vandor,5,Jedi Master Kenobi
+1277,5,Vandor,5,Ben Solo
+1278,5,Vandor,5,General Skywalker
+1279,5,Vandor,5,Grand Inquisitor
+1280,5,Vandor,5,Emperor Palpatine
+1281,5,Vandor,5,Jedi Master Kenobi
+1282,5,Vandor,5,Commander Ahsoka Tano
+1283,5,Vandor,5,General Skywalker
+1284,5,Vandor,5,Grand Inquisitor
+1285,5,Vandor,5,First Order Executioner
+1286,5,Vandor,5,Jedi Master Kenobi
+1287,5,Vandor,5,Maul
+1288,5,Vandor,5,General Skywalker
+1289,5,Vandor,5,Starkiller
+1290,5,Vandor,5,Talia
+1291,5,Vandor,4,Supreme Leader Kylo Ren
+1292,5,Vandor,4,Razor Crest
+1293,5,Vandor,4,Grand Inquisitor
+1294,5,Vandor,4,Jedi Consular's Starfighter
+1295,5,Vandor,4,Padmé Amidala
+1296,5,Vandor,4,Profundity
+1297,5,Vandor,4,Scythe
+1298,5,Vandor,4,Jedi Knight Luke Skywalker
+1299,5,Vandor,4,Anakin's Eta-2 Starfighter
+1300,5,Vandor,4,Raven's Claw
+1301,5,Vandor,4,Supreme Leader Kylo Ren
+1302,5,Vandor,4,"Boba Fett, Scion of Jango"
+1303,5,Vandor,4,Darth Malak
+1304,5,Vandor,4,Mace Windu
+1305,5,Vandor,4,Hyena Bomber
+1306,5,Vandor,3,Rey
+1307,5,Vandor,3,Commander Ahsoka Tano
+1308,5,Vandor,3,Bodhi Rook
+1309,5,Vandor,3,Barriss Offee
+1310,5,Vandor,3,Starkiller
+1311,5,Vandor,3,Sith Eternal Emperor
+1312,5,Vandor,3,Commander Ahsoka Tano
+1313,5,Vandor,3,Old Daka
+1314,5,Vandor,3,Bastila Shan
+1315,5,Vandor,3,Kylo Ren
+1316,5,Vandor,3,Profundity
+1317,5,Vandor,3,Scythe
+1318,5,Vandor,3,IG-100 MagnaGuard
+1319,5,Vandor,3,Bistan
+1320,5,Vandor,3,Tusken Shaman
+1321,5,Vandor,2,Profundity
+1322,5,Vandor,2,Darth Malgus
+1323,5,Vandor,2,Hondo Ohnaka
+1324,5,Vandor,2,Grand Inquisitor
+1325,5,Vandor,2,Darth Malak
+1326,5,Vandor,2,Jedi Master Luke Skywalker
+1327,5,Vandor,2,"Boba Fett, Scion of Jango"
+1328,5,Vandor,2,Jolee Bindo
+1329,5,Vandor,2,Darth Malak
+1330,5,Vandor,2,Darth Sidious
+1331,5,Vandor,2,Profundity
+1332,5,Vandor,2,Commander Ahsoka Tano
+1333,5,Vandor,2,50R-T
+1334,5,Vandor,2,Starkiller
+1335,5,Vandor,2,Hunter
+1336,5,Vandor,1,Executor
+1337,5,Vandor,1,Commander Ahsoka Tano
+1338,5,Vandor,1,Imperial TIE Bomber
+1339,5,Vandor,1,Wicket
+1340,5,Vandor,1,Starkiller
+1341,5,Vandor,1,Sith Eternal Emperor
+1342,5,Vandor,1,Ben Solo
+1343,5,Vandor,1,Gauntlet Starfighter
+1344,5,Vandor,1,Hound's Tooth
+1345,5,Vandor,1,Jedi Consular's Starfighter
+1346,5,Vandor,1,Profundity
+1347,5,Vandor,1,Scythe
+1348,5,Vandor,1,Ahsoka Tano (Fulcrum)
+1349,5,Vandor,1,Resistance Hero Finn
+1350,5,Vandor,1,Wedge Antilles's X-wing
+1351,5,Ring of Kafrene,6,Jedi Master Luke Skywalker
+1352,5,Ring of Kafrene,6,Jedi Knight Luke Skywalker
+1353,5,Ring of Kafrene,6,Umbaran Starfighter
+1354,5,Ring of Kafrene,6,Rose Tico
+1355,5,Ring of Kafrene,6,Commander Luke Skywalker
+1356,5,Ring of Kafrene,6,Jedi Master Kenobi
+1357,5,Ring of Kafrene,6,General Skywalker
+1358,5,Ring of Kafrene,6,Lando Calrissian
+1359,5,Ring of Kafrene,6,Tech
+1360,5,Ring of Kafrene,6,Ghost
+1361,5,Ring of Kafrene,6,Jedi Master Luke Skywalker
+1362,5,Ring of Kafrene,6,Jedi Knight Luke Skywalker
+1363,5,Ring of Kafrene,6,Omega
+1364,5,Ring of Kafrene,6,Ima-Gun Di
+1365,5,Ring of Kafrene,6,Chirrut Îmwe
+1366,5,Ring of Kafrene,5,Jedi Master Luke Skywalker
+1367,5,Ring of Kafrene,5,Jedi Knight Luke Skywalker
+1368,5,Ring of Kafrene,5,Hoth Rebel Soldier
+1369,5,Ring of Kafrene,5,Jedi Knight Revan
+1370,5,Ring of Kafrene,5,Chewbacca
+1371,5,Ring of Kafrene,5,Profundity
+1372,5,Ring of Kafrene,5,General Skywalker
+1373,5,Ring of Kafrene,5,Baze Malbus
+1374,5,Ring of Kafrene,5,R2-D2
+1375,5,Ring of Kafrene,5,Bodhi Rook
+1376,5,Ring of Kafrene,5,Jedi Master Kenobi
+1377,5,Ring of Kafrene,5,Jedi Knight Luke Skywalker
+1378,5,Ring of Kafrene,5,Veteran Smuggler Chewbacca
+1379,5,Ring of Kafrene,5,Grand Master Yoda
+1380,5,Ring of Kafrene,5,50R-T
+1381,5,Ring of Kafrene,4,Rey
+1382,5,Ring of Kafrene,4,General Skywalker
+1383,5,Ring of Kafrene,4,Amilyn Holdo
+1384,5,Ring of Kafrene,4,Resistance Trooper
+1385,5,Ring of Kafrene,4,C-3PO
+1386,5,Ring of Kafrene,4,Jedi Master Kenobi
+1387,5,Ring of Kafrene,4,General Skywalker
+1388,5,Ring of Kafrene,4,Negotiator
+1389,5,Ring of Kafrene,4,Chopper
+1390,5,Ring of Kafrene,4,Clone Wars Chewbacca
+1391,5,Ring of Kafrene,4,Profundity
+1392,5,Ring of Kafrene,4,Jedi Knight Luke Skywalker
+1393,5,Ring of Kafrene,4,Barriss Offee
+1394,5,Ring of Kafrene,4,Mon Mothma
+1395,5,Ring of Kafrene,4,Baze Malbus
+1396,5,Ring of Kafrene,3,Jedi Master Luke Skywalker
+1397,5,Ring of Kafrene,3,R2-D2
+1398,5,Ring of Kafrene,3,Jedi Knight Luke Skywalker
+1399,5,Ring of Kafrene,3,Wedge Antilles's X-wing
+1400,5,Ring of Kafrene,3,Echo
+1401,5,Ring of Kafrene,3,Rey
+1402,5,Ring of Kafrene,3,C-3PO
+1403,5,Ring of Kafrene,3,General Skywalker
+1404,5,Ring of Kafrene,3,The Armorer
+1405,5,Ring of Kafrene,3,Tech
+1406,5,Ring of Kafrene,3,Jedi Master Kenobi
+1407,5,Ring of Kafrene,3,Jedi Knight Revan
+1408,5,Ring of Kafrene,3,Jedi Knight Luke Skywalker
+1409,5,Ring of Kafrene,3,Clone Sergeant's ARC-170
+1410,5,Ring of Kafrene,3,T3-M4
+1411,5,Ring of Kafrene,2,Jedi Master Kenobi
+1412,5,Ring of Kafrene,2,Grand Master Yoda
+1413,5,Ring of Kafrene,2,Jedi Knight Luke Skywalker
+1414,5,Ring of Kafrene,2,Commander Luke Skywalker
+1415,5,Ring of Kafrene,2,Eeth Koth
+1416,5,Ring of Kafrene,2,Rey
+1417,5,Ring of Kafrene,2,Grand Master Yoda
+1418,5,Ring of Kafrene,2,General Skywalker
+1419,5,Ring of Kafrene,2,Han's Millennium Falcon
+1420,5,Ring of Kafrene,2,"CT-7567 ""Rex"""
+1421,5,Ring of Kafrene,2,Rey
+1422,5,Ring of Kafrene,2,Padmé Amidala
+1423,5,Ring of Kafrene,2,Jedi Knight Luke Skywalker
+1424,5,Ring of Kafrene,2,Grand Master Yoda
+1425,5,Ring of Kafrene,2,Lobot
+1426,5,Ring of Kafrene,1,Jedi Master Kenobi
+1427,5,Ring of Kafrene,1,Jedi Knight Revan
+1428,5,Ring of Kafrene,1,General Skywalker
+1429,5,Ring of Kafrene,1,Bastila Shan
+1430,5,Ring of Kafrene,1,Eeth Koth
+1431,5,Ring of Kafrene,1,Jedi Master Luke Skywalker
+1432,5,Ring of Kafrene,1,Commander Luke Skywalker
+1433,5,Ring of Kafrene,1,Jedi Knight Luke Skywalker
+1434,5,Ring of Kafrene,1,Wedge Antilles's X-wing
+1435,5,Ring of Kafrene,1,Boushh (Leia Organa)
+1436,5,Ring of Kafrene,1,Jedi Master Luke Skywalker
+1437,5,Ring of Kafrene,1,Grand Master Yoda
+1438,5,Ring of Kafrene,1,Jedi Knight Luke Skywalker
+1439,5,Ring of Kafrene,1,50R-T
+1440,5,Ring of Kafrene,1,Zaalbar
+1441,6,Death Star,6,Supreme Leader Kylo Ren
+1442,6,Death Star,6,Darth Malgus
+1443,6,Death Star,6,Hyena Bomber
+1444,6,Death Star,6,IG-86 Sentinel Droid
+1445,6,Death Star,6,IG-88
+1446,6,Death Star,6,Executor
+1447,6,Death Star,6,Scythe
+1448,6,Death Star,6,Geonosian Brood Alpha
+1449,6,Death Star,6,Zam Wesell
+1450,6,Death Star,6,Kylo Ren (Unmasked)
+1451,6,Death Star,6,Lord Vader
+1452,6,Death Star,6,Maul
+1453,6,Death Star,6,Jawa Scavenger
+1454,6,Death Star,6,B2 Super Battle Droid
+1455,6,Death Star,6,Hondo Ohnaka
+1456,6,Death Star,5,Lord Vader
+1457,6,Death Star,5,"Boba Fett, Scion of Jango"
+1458,6,Death Star,5,Grand Moff Tarkin
+1459,6,Death Star,5,Emperor's Shuttle
+1460,6,Death Star,5,Nightsister Acolyte
+1461,6,Death Star,5,Supreme Leader Kylo Ren
+1462,6,Death Star,5,Darth Malgus
+1463,6,Death Star,5,Fifth Brother
+1464,6,Death Star,5,Geonosian Spy
+1465,6,Death Star,5,HK-47
+1466,6,Death Star,5,Executor
+1467,6,Death Star,5,"Boba Fett, Scion of Jango"
+1468,6,Death Star,5,Tusken Raider
+1469,6,Death Star,5,Sith Trooper
+1470,6,Death Star,5,Geonosian Soldier
+1471,6,Death Star,4,Lord Vader
+1472,6,Death Star,4,Darth Malgus
+1473,6,Death Star,4,Geonosian Brood Alpha
+1474,6,Death Star,4,IG-100 MagnaGuard
+1475,6,Death Star,4,Asajj Ventress
+1476,6,Death Star,4,Sith Eternal Emperor
+1477,6,Death Star,4,"Boba Fett, Scion of Jango"
+1478,6,Death Star,4,Count Dooku
+1479,6,Death Star,4,Shoretrooper
+1480,6,Death Star,4,Range Trooper
+1481,6,Death Star,4,Lord Vader
+1482,6,Death Star,4,Scythe
+1483,6,Death Star,4,General Hux
+1484,6,Death Star,4,Jawa
+1485,6,Death Star,4,Darth Maul
+1486,6,Death Star,3,Lord Vader
+1487,6,Death Star,3,"Boba Fett, Scion of Jango"
+1488,6,Death Star,3,Darth Talon
+1489,6,Death Star,3,"Mara Jade, The Emperor's Hand"
+1490,6,Death Star,3,Hound's Tooth
+1491,6,Death Star,3,Supreme Leader Kylo Ren
+1492,6,Death Star,3,Maul
+1493,6,Death Star,3,Hyena Bomber
+1494,6,Death Star,3,Jawa Engineer
+1495,6,Death Star,3,URoRRuR'R'R
+1496,6,Death Star,3,Executor
+1497,6,Death Star,3,Darth Malgus
+1498,6,Death Star,3,IG-88
+1499,6,Death Star,3,Malevolence
+1500,6,Death Star,3,Hondo Ohnaka
+1501,6,Death Star,2,Executor
+1502,6,Death Star,2,Maul
+1503,6,Death Star,2,Ugnaught
+1504,6,Death Star,2,Royal Guard
+1505,6,Death Star,2,Count Dooku
+1506,6,Death Star,2,Lord Vader
+1507,6,Death Star,2,"Boba Fett, Scion of Jango"
+1508,6,Death Star,2,Imperial Super Commando
+1509,6,Death Star,2,Malevolence
+1510,6,Death Star,2,Krrsantan
+1511,6,Death Star,2,Executor
+1512,6,Death Star,2,Scythe
+1513,6,Death Star,2,Nightsister Spirit
+1514,6,Death Star,2,B1 Battle Droid
+1515,6,Death Star,2,Emperor's Shuttle
+1516,6,Death Star,1,Lord Vader
+1517,6,Death Star,1,Maul
+1518,6,Death Star,1,Hyena Bomber
+1519,6,Death Star,1,Ninth Sister
+1520,6,Death Star,1,Geonosian Spy's Starfighter
+1521,6,Death Star,1,Supreme Leader Kylo Ren
+1522,6,Death Star,1,"Boba Fett, Scion of Jango"
+1523,6,Death Star,1,Executrix
+1524,6,Death Star,1,Nightsister Acolyte
+1525,6,Death Star,1,Imperial Super Commando
+1526,6,Death Star,1,Sith Eternal Emperor
+1527,6,Death Star,1,Maul
+1528,6,Death Star,1,Hondo Ohnaka
+1529,6,Death Star,1,Savage Opress
+1530,6,Death Star,1,Ugnaught
+1531,6,Hoth,6,Jedi Master Kenobi
+1532,6,Hoth,6,Commander Ahsoka Tano
+1533,6,Hoth,6,Ben Solo
+1534,6,Hoth,6,Admiral Raddus
+1535,6,Hoth,6,Nightsister Initiate
+1536,6,Hoth,6,Lord Vader
+1537,6,Hoth,6,Darth Malgus
+1538,6,Hoth,6,Razor Crest
+1539,6,Hoth,6,Resistance Pilot
+1540,6,Hoth,6,Chief Nebit
+1541,6,Hoth,6,Jedi Master Luke Skywalker
+1542,6,Hoth,6,Scythe
+1543,6,Hoth,6,Razor Crest
+1544,6,Hoth,6,Aurra Sing
+1545,6,Hoth,6,Dengar
+1546,6,Hoth,5,Rey
+1547,6,Hoth,5,Razor Crest
+1548,6,Hoth,5,Ben Solo
+1549,6,Hoth,5,Han Solo
+1550,6,Hoth,5,Pao
+1551,6,Hoth,5,Supreme Leader Kylo Ren
+1552,6,Hoth,5,Maul
+1553,6,Hoth,5,Commander Ahsoka Tano
+1554,6,Hoth,5,Han Solo
+1555,6,Hoth,5,Nute Gunray
+1556,6,Hoth,5,Rey
+1557,6,Hoth,5,Scythe
+1558,6,Hoth,5,"Boba Fett, Scion of Jango"
+1559,6,Hoth,5,Hermit Yoda
+1560,6,Hoth,5,Sana Starros
+1561,6,Hoth,4,Lord Vader
+1562,6,Hoth,4,Darth Malgus
+1563,6,Hoth,4,Wat Tambor
+1564,6,Hoth,4,Jedi Consular
+1565,6,Hoth,4,Asajj Ventress
+1566,6,Hoth,4,Lord Vader
+1567,6,Hoth,4,Darth Malgus
+1568,6,Hoth,4,General Kenobi
+1569,6,Hoth,4,HK-47
+1570,6,Hoth,4,TIE Echelon
+1571,6,Hoth,4,Supreme Leader Kylo Ren
+1572,6,Hoth,4,Scythe
+1573,6,Hoth,4,Han Solo
+1574,6,Hoth,4,First Order Officer
+1575,6,Hoth,4,B1 Battle Droid
+1576,6,Hoth,3,Sith Eternal Emperor
+1577,6,Hoth,3,Darth Malgus
+1578,6,Hoth,3,Darth Traya
+1579,6,Hoth,3,Emperor's Shuttle
+1580,6,Hoth,3,"Boba Fett, Scion of Jango"
+1581,6,Hoth,3,Executor
+1582,6,Hoth,3,Commander Ahsoka Tano
+1583,6,Hoth,3,Rebel Officer Leia Organa
+1584,6,Hoth,3,Young Lando Calrissian
+1585,6,Hoth,3,Veteran Smuggler Chewbacca
+1586,6,Hoth,3,Jedi Master Luke Skywalker
+1587,6,Hoth,3,Scythe
+1588,6,Hoth,3,General Kenobi
+1589,6,Hoth,3,Clone Sergeant - Phase I
+1590,6,Hoth,3,Dark Trooper
+1591,6,Hoth,2,Supreme Leader Kylo Ren
+1592,6,Hoth,2,Darth Malgus
+1593,6,Hoth,2,Darth Traya
+1594,6,Hoth,2,Commander Ahsoka Tano
+1595,6,Hoth,2,Maul
+1596,6,Hoth,2,Rey
+1597,6,Hoth,2,Darth Malgus
+1598,6,Hoth,2,Wat Tambor
+1599,6,Hoth,2,Ben Solo
+1600,6,Hoth,2,Outrider
+1601,6,Hoth,2,Jedi Master Kenobi
+1602,6,Hoth,2,Scythe
+1603,6,Hoth,2,Imperial Probe Droid
+1604,6,Hoth,2,"Boba Fett, Scion of Jango"
+1605,6,Hoth,2,Sith Empire Trooper
+1606,6,Hoth,1,Rey
+1607,6,Hoth,1,Darth Malgus
+1608,6,Hoth,1,General Kenobi
+1609,6,Hoth,1,Old Daka
+1610,6,Hoth,1,Maul
+1611,6,Hoth,1,Supreme Leader Kylo Ren
+1612,6,Hoth,1,Commander Ahsoka Tano
+1613,6,Hoth,1,Imperial Probe Droid
+1614,6,Hoth,1,Sith Trooper
+1615,6,Hoth,1,Ninth Sister
+1616,6,Hoth,1,Rey
+1617,6,Hoth,1,Scythe
+1618,6,Hoth,1,Darth Traya
+1619,6,Hoth,1,Sana Starros
+1620,6,Hoth,1,IG-100 MagnaGuard
+1621,6,Scarif,6,Jedi Master Luke Skywalker
+1622,6,Scarif,6,Hermit Yoda
+1623,6,Scarif,6,Ben Solo
+1624,6,Scarif,6,BB-8
+1625,6,Scarif,6,Dash Rendar
+1626,6,Scarif,6,Jedi Master Kenobi
+1627,6,Scarif,6,Rebel Officer Leia Organa
+1628,6,Scarif,6,Ben Solo
+1629,6,Scarif,6,Jedi Knight Revan
+1630,6,Scarif,6,Skiff Guard (Lando Calrissian)
+1631,6,Scarif,6,Rey
+1632,6,Scarif,6,Han Solo
+1633,6,Scarif,6,Razor Crest
+1634,6,Scarif,6,Han's Millennium Falcon
+1635,6,Scarif,6,Bastila Shan
+1636,6,Scarif,5,Rey
+1637,6,Scarif,5,Han Solo
+1638,6,Scarif,5,Razor Crest
+1639,6,Scarif,5,Resistance X-wing
+1640,6,Scarif,5,Skiff Guard (Lando Calrissian)
+1641,6,Scarif,5,Jedi Master Luke Skywalker
+1642,6,Scarif,5,Logray
+1643,6,Scarif,5,Ben Solo
+1644,6,Scarif,5,Zaalbar
+1645,6,Scarif,5,Bastila Shan
+1646,6,Scarif,5,Jedi Master Luke Skywalker
+1647,6,Scarif,5,Han Solo
+1648,6,Scarif,5,Ben Solo
+1649,6,Scarif,5,Tech
+1650,6,Scarif,5,Ima-Gun Di
+1651,6,Scarif,4,Jedi Master Kenobi
+1652,6,Scarif,4,Ki-Adi-Mundi
+1653,6,Scarif,4,Rey (Scavenger)
+1654,6,Scarif,4,Ben Solo
+1655,6,Scarif,4,Dash Rendar
+1656,6,Scarif,4,Rey
+1657,6,Scarif,4,Hermit Yoda
+1658,6,Scarif,4,Xanadu Blood
+1659,6,Scarif,4,Razor Crest
+1660,6,Scarif,4,"Mara Jade, The Emperor's Hand"
+1661,6,Scarif,4,Jedi Master Luke Skywalker
+1662,6,Scarif,4,Ki-Adi-Mundi
+1663,6,Scarif,4,L3-37
+1664,6,Scarif,4,Commander Ahsoka Tano
+1665,6,Scarif,4,Bastila Shan
+1666,6,Scarif,3,Jedi Master Kenobi
+1667,6,Scarif,3,Hermit Yoda
+1668,6,Scarif,3,Razor Crest
+1669,6,Scarif,3,Grand Master Yoda
+1670,6,Scarif,3,Raven's Claw
+1671,6,Scarif,3,Jedi Master Luke Skywalker
+1672,6,Scarif,3,Ki-Adi-Mundi
+1673,6,Scarif,3,Razor Crest
+1674,6,Scarif,3,Chewbacca
+1675,6,Scarif,3,Dash Rendar
+1676,6,Scarif,3,Rey
+1677,6,Scarif,3,Rebel Officer Leia Organa
+1678,6,Scarif,3,Ben Solo
+1679,6,Scarif,3,Padmé Amidala
+1680,6,Scarif,3,Bastila Shan
+1681,6,Scarif,2,Jedi Master Luke Skywalker
+1682,6,Scarif,2,Razor Crest
+1683,6,Scarif,2,Dash Rendar
+1684,6,Scarif,2,Outrider
+1685,6,Scarif,2,Raven's Claw
+1686,6,Scarif,2,Rey
+1687,6,Scarif,2,Razor Crest
+1688,6,Scarif,2,Rey (Scavenger)
+1689,6,Scarif,2,Lobot
+1690,6,Scarif,2,Bastila Shan
+1691,6,Scarif,2,Rey
+1692,6,Scarif,2,Ben Solo
+1693,6,Scarif,2,The Mandalorian
+1694,6,Scarif,2,Kanan Jarrus
+1695,6,Scarif,2,Ima-Gun Di
+1696,6,Scarif,1,Jedi Master Kenobi
+1697,6,Scarif,1,Commander Ahsoka Tano
+1698,6,Scarif,1,Coruscant Underworld Police
+1699,6,Scarif,1,Hermit Yoda
+1700,6,Scarif,1,Raven's Claw
+1701,6,Scarif,1,Jedi Master Luke Skywalker
+1702,6,Scarif,1,Commander Ahsoka Tano
+1703,6,Scarif,1,Poe Dameron
+1704,6,Scarif,1,Rebel Officer Leia Organa
+1705,6,Scarif,1,Dash Rendar
+1706,6,Scarif,1,Jedi Master Kenobi
+1707,6,Scarif,1,Commander Ahsoka Tano
+1708,6,Scarif,1,Biggs Darklighter's X-wing
+1709,6,Scarif,1,General Kenobi
+1710,6,Scarif,1,Bastila Shan
